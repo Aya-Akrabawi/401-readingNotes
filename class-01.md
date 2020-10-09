@@ -24,3 +24,16 @@ superagent.post('/api/pet').then(console.log).catch(console.error);
   }
 })();
 ```
+4- **Promises in JavaScript**
+It allows you to associate handlers with an asynchronous action's eventual success value or failure reason. This lets asynchronous methods return values like synchronous methods: instead of immediately returning the final value, the asynchronous method returns a promise to supply the value at some point in the future.
+**Which 3 things had you heard about previously and now have better clarity on?**
+1- Array.reduce()
+2- promise with async/await
+3-  NodeJS
+
+**Which 3 things are you hoping to learn more about in the upcoming lecture/demo?**
+1- full stack issues
+2- learn more about npm 
+3- learn more about promises
+**What are you most excited about trying to implement or see how it works?**
+try more npm packages 
