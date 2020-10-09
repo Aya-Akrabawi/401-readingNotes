@@ -13,7 +13,7 @@
 superagent.post('/api/pet').then(console.log).catch(console.error);
  ```
 
-**// **promise with async/await**
+ **promise with async/await**
 ```
 (async () => {
   try {
