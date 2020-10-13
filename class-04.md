@@ -1,4 +1,27 @@
-3 Advanced Mongo/Mongoose
+# Advanced Mongo/Mongoose
+
+## The Repository Design Pattern:
+
+In Software Engineering a **design pattern** is a reusable solution to a general problem occurring in a given context in software design. A design pattern is not a design which is directly transferred into code(source or machine).
+In order for our application to use Repositories, first we need to set things up.
+We are going to need:
+
+* UserRepository
+* EloquentUserRepository
+* A way to bind UserRepository and EloquentUserRepository
+
+## Testing Node.js + Mongoose with an in-memory database:
+
+To create a mongoose schema and a service that executes some operations with that schema.
+1. Setup & Install dependencies
+2. Write code to test
+  2.a Product schema
+  2.b Product service
+3. Configure jest
+4. In-memory database handling
+5. Write some tests
+6. Try it out!
+
 
 ## Why would a developer choose to make data models?
 - A data model not only improves the conceptual quality of an application, it also lets you leverage database features that improve data quality.
