@@ -38,5 +38,5 @@ answers:
 1- linear data structures
 2- non-linear data structures
 3- memory 
-4- adding , removing , search , 
+4- adding , removing , search 
 
