@@ -1,3 +1,4 @@
+# Read: Class 06
 ## HTTP
 The Hyper Text Transfer Protocol (HTTP) is is the protocol used to transfer data over the web. It is part of the Internet protocol suite and defines commands and services used for transmitting webpage data.
 
