@@ -16,13 +16,3 @@ Basically, JWT is a token format. and JWT is used as a token in the OAuth OAuth 
 
 Although JWTs can be encrypted to also provide secrecy between parties, we will focus on signed tokens. Signed tokens can verify the integrity of the claims contained within it, while encrypted tokens hide those claims from other parties. When tokens are signed using public/private key pairs, the signature also certifies that only the party holding the private key is the one that signed it.
 
-## Review
-
-**Write the following steps in the correct order:**
-Receive access token
-Redirect to a third party authentication endpoint
-Register your application to get a client_id and client_secret
-Make a request to a third-party API endpoint
-Ask the client if they want to sign in via a third party
-Receive authorization code
-Make a request to the access token endpoint
