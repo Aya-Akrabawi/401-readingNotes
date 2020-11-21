@@ -19,6 +19,7 @@ ReactDOM.render((
 
 2. Add Switch
 ```
+```
 <Switch>
   <Route exact path='/' component={Home}/>
   {/* both /roster and /roster/:number begin with /roster */}
