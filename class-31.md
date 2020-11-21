@@ -16,3 +16,13 @@ this example is written with react hooks:
 
 ![](https://user-images.githubusercontent.com/1768483/59966958-6724b980-94f1-11e9-878f-92ab951f9ff3.gif)
 
+**When would I use a Hook?**
+If you write a function component and realize you need to add some state to it, previously you had to convert it to a class. Now you can use a Hook inside the existing function component. We’re going to do that right now!
+
+**How does this work?**
+by convention, we use set + state-variable to name this function useState() takes a single param, which is the initial value to assign to the state variable
+
+**Basic Hooks**
+useState
+useEffect
+useContext
